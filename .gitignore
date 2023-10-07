@@ -1,0 +1,6 @@
+veconomy/node_modules/
+testest/google_auth_in_mern_stack/client/node_modules/
+testest/google_auth_in_mern_stack/client/.env
+testest/google_auth_in_mern_stack/server/node_modules/
+testest/google_auth_in_mern_stack/server/.env
+server/node_modules/
